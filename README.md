@@ -2,7 +2,7 @@
 
 Flutter mobile app (Android) for homeowners to manage their community of neighbors, built for the ADSOLUCIONES platform used by many property-management firms.
 
-> The source code is private (property of the company), so this repository only contains a summary and screenshots taken from the real app running with invented demo data. The app is public on [Google Play](https://play.google.com/store/apps/details?id=com.adcomunidad.app_propietarios).
+> The source code is private (property of the company), so this repository only contains a summary and screenshots taken from the real app running with invented demo data (latest development version). The app is public on [Google Play](https://play.google.com/store/apps/details?id=com.adcomunidad.app_propietarios).
 
 <div style="display: flex; justify-content: space-around;">
   <img src="images/1.jpg" width="180" alt="screenshot 1" hspace="4"/>
@@ -13,7 +13,6 @@ Flutter mobile app (Android) for homeowners to manage their community of neighbo
   <img src="images/6.jpg" width="180" alt="screenshot 6" hspace="4"/>
   <img src="images/7.jpg" width="180" alt="screenshot 7" hspace="4"/>
   <img src="images/8.jpg" width="180" alt="screenshot 8" hspace="4"/>
-  <img src="images/9.jpg" width="180" alt="screenshot 9" hspace="4"/>
 </div>
 
 ## What it does
